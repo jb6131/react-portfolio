@@ -6,7 +6,7 @@ export default function Portfolio() {
       id: 1,
       title: 'Earful',
       description: 'desc',
-      image: './src/assets/placeholder1.jpg',
+      image: './images/placeholder1.jpg',
       deployedUrl: '#',
       repoUrl: '#'
     },
@@ -14,7 +14,7 @@ export default function Portfolio() {
       id: 2,
       title: 'Tip Tracker',
       description: 'desc',
-      image: './src/assets/placeholder2.jpg',
+      image: './images/placeholder2.jpg',
       deployedUrl: '#',
       repoUrl: '#'
     },
@@ -22,7 +22,7 @@ export default function Portfolio() {
       id: 3,
       title: 'TBD',
       description: 'desc',
-      image: './src/assets/placeholder3.jpg',
+      image: './images/placeholder3.jpg',
       deployedUrl: '#',
       repoUrl: '#'
     },
@@ -30,7 +30,7 @@ export default function Portfolio() {
       id: 4,
       title: 'TBD',
       description: 'desc',
-      image: './src/assets/placeholder4.jpg',
+      image: './images/placeholder4.jpg',
       deployedUrl: '#',
       repoUrl: '#'
     },
