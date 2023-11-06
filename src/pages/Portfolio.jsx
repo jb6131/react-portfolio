@@ -37,7 +37,7 @@ export default function Portfolio() {
   ];
 
   return (
-    <div className="container">
+    <div className="container mt-3">
       <h1 className="text-center">My Projects</h1>
       <div className="row justify-content-center m-3">
         {projects.map((project) => (
