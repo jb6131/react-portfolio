@@ -5,18 +5,18 @@ export default function Portfolio() {
     {
       id: 1,
       title: 'Earful',
-      description: 'desc',
-      image: './images/placeholder1.jpg',
-      deployedUrl: '#',
-      repoUrl: '#'
+      description: 'Playlist creator!',
+      image: './images/earful.png',
+      deployedUrl: 'https://chase-garrett.github.io/earful/',
+      repoUrl: 'https://github.com/Chase-Garrett/earful'
     },
     {
       id: 2,
       title: 'Tip Tracker',
-      description: 'desc',
-      image: './images/placeholder2.jpg',
-      deployedUrl: '#',
-      repoUrl: '#'
+      description: 'Track your tips!',
+      image: './images/tip-tracker.png',
+      deployedUrl: 'https://calm-bastion-79027-465dab9140b3.herokuapp.com/',
+      repoUrl: 'https://github.com/Calebjwood/Tip-Tracker'
     },
     {
       id: 3,
