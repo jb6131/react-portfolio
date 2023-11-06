@@ -86,7 +86,7 @@ export default function Contact() {
           />
         </div>
         <button type="submit" className="btn btn-primary">Submit</button>
-        {<div className="alert alert-primary mt-3" role="alert">{submitMessage}</div>}
+        {submitMessage && <div className="alert alert-primary mt-3" role="alert">{submitMessage}</div>}
       </form>
     </div>
   );

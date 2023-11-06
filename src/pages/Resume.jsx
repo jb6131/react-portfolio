@@ -1,7 +1,7 @@
 export default function Resume() {
   return (
-    <div>
-      <h1>Resume</h1>
+    <div className="container mt-3">
+      <h1 className="text-center">Resume</h1>
     </div>
   );
 }
