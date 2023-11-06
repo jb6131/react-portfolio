@@ -1,10 +1,16 @@
 import { Outlet } from 'react-router-dom';
-import Nav from './components/Navigation/Navigation';
+import Header from './components/Header/Header';
+import Navigation from './components/Navigation/Navigation';
 
 function App() {
   return (
     <>
-      <Nav />
+      <nav className="navbar navbar-expand-lg navbar-light bg-light">
+        <div className="container-fluid">
+          <Header />
+          <Navigation />
+        </div>
+      </nav>
       <main>
         <Outlet />
       </main>
