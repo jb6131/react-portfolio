@@ -8,14 +8,14 @@ export default function About() {
         </div>
         <div className="col-sm-9 p-3">
           <p>
-            Hello! My name is Jesus Briseno, a 23-year-old enthusiast with a fresh perspective in the tech industry. 
+            Hello! My name is Jesus Briseno, a 23-year-old fledgling web developer with a fresh perspective in the tech industry. 
             Having recently graduated, I'm transitioning careers towards web development, fueled by an intensive 6-month 
             Full Stack Web Development Bootcamp. I'm proficient in a variety of web development technologies, from HTML, 
             CSS, and JavaScript to advanced frameworks like React, which I used to create this site!
             <br />
             <br />
             During my bootcamp experience, I've tackled several projects which not only solidified my coding skills but also 
-            honed my problem-solving abilities. For instance, [Project Name], featured in my Portfolio, showcases my ability 
+            honed my problem-solving abilities. For instance, Tip Tracker, featured in my Portfolio, showcases my ability 
             to integrate backend and frontend development seamlessly.
             <br />
             <br />
