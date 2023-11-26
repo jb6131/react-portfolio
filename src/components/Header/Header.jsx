@@ -1,6 +1,6 @@
 function Header() {
   return (
-    <h1 className="navbar-brand">Jesus Briseno <i className="fa-solid fa-dragon"></i></h1>
+    <h1 className="navbar-brand">Jesus Briseno</h1>
   );
 }
 
