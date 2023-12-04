@@ -48,7 +48,7 @@ export default function Contact() {
     setEmail('');
     setMessage('');
 
-    setSubmitMessage('Form functionality is not implemented at this time. To reach me, please email me at jbriseno2000@gmail.com');
+    setSubmitMessage('Form functionality is not implemented at this time. To reach me, please email me at jbriseno2000@gmail.com.');
   };
 
   return (
