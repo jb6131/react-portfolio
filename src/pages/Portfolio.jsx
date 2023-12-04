@@ -20,11 +20,11 @@ export default function Portfolio() {
     },
     {
       id: 3,
-      title: 'TBD',
-      description: 'desc',
-      image: './images/placeholder3.jpg',
-      deployedUrl: '#',
-      repoUrl: '#'
+      title: 'CommunityHub',
+      description: 'Participate in your community!',
+      image: './images/communityhub.png',
+      deployedUrl: 'https://whispering-brook-60496-af6838df675c.herokuapp.com/',
+      repoUrl: 'https://github.com/adrummer1/CommunityHub'
     },
     {
       id: 4,
